@@ -10,3 +10,4 @@ function solution(n) {
   }
   return arr.filter(item => item).length;
 }
+
